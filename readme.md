@@ -7,7 +7,7 @@
     
 </head>
 <body>
-  <p><a style="text-decoration:none"href="https://nishtha9102.github.io/my-portfolio/">Click here for my portfolio.</a></p>
+  <p><a style="text-decoration:none"href="https://nishtha9102.github.io/my-portfolio/" target="_blank">Click here for my portfolio.</a></p>
     
 </body>
 </html>
